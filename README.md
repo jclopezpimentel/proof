@@ -1,2 +1,2 @@
 # proof
-esto es solo una prueba del repositorio
+Esta es nuestra primera prueba del repositorio
